@@ -1,0 +1,8 @@
+sca [+12h]
+inz +3h
+jmp end
+ext halt
+# 3246h
+
+end:
+ext halt
